@@ -1,0 +1,117 @@
+
+The key job of computer science in the different areas of business and research requires a well-grounded and current knowledge that exceeds the first professional degree.
+During the master program "M.Sc. Applied Computer Science" we convey the knowledge and skills on a high level.
+Furthermore, the degree is a requirement for the admission of a graduated program in computer science.
+All facts at a glance
+Overview
+Content, objective and process of study
+Career, perspectives
+Application
+All facts at a glance
+Overview
+Degree	Master of Science (M.Sc.)
+Credit Points	
+120.
+Duration of Study	
+2 years.
+Starting	
+Annually, starting 1 October and 1 April
+Study model	Full time
+Entrance criteria	
+recognized Bachelor degree (180 ECTS or 210 ECTS for the shortened degree program) or a German Diploma in computer science, “virtual realities”, “applied computer science” , “information management” , IT , software development or similar degree courses.
+good knowledge in Java, C++ and database
+IELTS 6.5 / TOEFL 80 or other proof of English proficiency
+Languages	English
+Tuition Fees	
+750 EUR per month + one-time registration fee of 750 EUR
+Applicants from countries with a visa obligation need to pay a one-time registration fee of 1,000 EUR and all tuition fees must be paid in advance.
+YOUR CONTACT FOR ACS COURSE IS SEBASTIAN HOFFMANN.
+YOUR CONTACT FOR DATA SCIENCE IS BARBARA SPRICK.
+ 
+
+ 
+
+Content, objective and process of study
+Key task of Computer Science
+
+The key task of computer science in the different areas of business and research requires a well-grounded and current knowledge, that exceeds the first academic degree. During the master program "M.Sc. Applied Computer Science" we convey the knowledge and skills on a high level. Furthermore, the degree is a requirement for the admission of a graduated program in computer science.
+
+Examples of optional topics
+
+SAP Enterprise Service Architectures
+
+SAP System, Application, Customization
+
+ABAP Distributed Systems Databases and Data Mining
+
+3D Visualization and Game Development
+
+The program modules
+
+Module	Credit
+Points
+Required Modules	
+IT-Security	8
+Software Development Practice	8
+Information Systems	8
+Specialization Module I	8
+Software Architecture and Development	8
+Advanced Computer Science	8
+Specialization Module II	8
+Current Topics in Computer Science	4
+International Project Management	8
+Specialization Module III	8
+Electives	
+(Elective Module) Internship	14
+(Elective Module) Research Project	14
+Master Thesis Seminar	4
+Master Thesis	26
+Specialization Business Computing	
+Business Application Systems and Development	8
+SAP Technology	8
+SAP HANA	8
+SAP Development ABAP	8
+SAP Netweaver Business Process Management	8
+Internet & Network Technologies	8
+Applied Research	8
+Specialization Multimedia Development	
+Advanced Game Design	8
+Applied Artificial Intelligence	8
+Development of Multimedia Systems	8
+Developing Multimedia Learning Systems	8
+Developing Mobile Applications	8
+Career, perspectives
+A master’s degree in informatics increases your chance of securing a lucrative position in the software and IT industry. 
+With our master’s degree you will acquire the necessary knowledge and skills required for different kind of employments. 
+Our graduates are working for large enterprises such as AIRBUS, ADIDAS, AUDI, BOSCH, BMW, BASF, DEUTSCHE BOERSE, DKFZ, SAP, TRIMUPH, VERIVOX, etc. and many more small and medium sized companies.
+Our programme is also accredited for senior positions in the public sector. 
+Furthermore, a master’s degree qualifies for research e.g. doctoral studies.
+
+Possible jobs
+
+Software Ingenieur and architect
+System analyst
+System Designer
+Project manager
+Application
+If you are interested in our master’s degree program "Applied Computer Science", you can apply online.
+
+Contact Sebastian Hoffmann
+Organisation
+
+Fakultät für Information, Medien und Design
+Room arc209
+Ludwig-Guttmann-Str. 6
+69123 Heidelberg
+Telephone +49 6221 88-1015
+Course Administrator
+Gerd Moeckel
+Prof. Dr. Gerd Moeckel
+Professor
+
+Fakultät für Information, Medien und Design
+Studiengangsleitung Applied Computer Science
+Room arc208
+Ludwig-Guttmann-Str. 6
+69123 Heidelberg
+Telephone +49 6221 88-3512
